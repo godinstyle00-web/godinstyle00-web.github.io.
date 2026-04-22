@@ -1,4 +1,4 @@
-# godinstyle00-web.github.io.
+
 [godin-style.html](https://github.com/user-attachments/files/26981759/godin-style.html)
 <!DOCTYPE html>
 <html lang="pt-BR">
