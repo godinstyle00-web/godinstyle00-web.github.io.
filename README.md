@@ -1,6 +1,4 @@
 
-[godin-style.html](https://github.com/user-attachments/files/26981759/godin-style.html)
-<!DOCTYPE html>
 <html lang="pt-BR">
 <head>
 <meta charset="UTF-8">
